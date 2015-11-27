@@ -588,3 +588,56 @@ To get a list of all options and switches use:
 * Demos: [http://youtube.com/c/INURLBrasil](https://www.youtube.com/playlist?list=PLV1376pVwcCmcoCmq_Z4O0ra4BqjmhIaR)
 * Tutoriais: [http://blog.inurl.com.br/search/label/INURLBR](http://blog.inurl.com.br/search/label/INURLBR)
 * IRC: irc.rizon.net / #inurlbrasil
+* 
+
+====================================================================================================================
+# php小脚本：利用搜索引擎来进行漏洞批量抓取
+
+## Sanner-Inurlbr是作者国外的漏洞平台上发现的一个利用搜索来进行批量搜索的好工具，利用freebuf平台，
+共享给国内的爱好安全的朋友们。
+
+
+## 该扫描器可在搜索引擎中进行高级搜索，能够提供利用GET/ POST捕捉电子邮件和网址，有内部自定义验证结对每个目标的URL中分析。
+
+
+* 作者ID: Cleiton Pinheiro / Nick: googleINURL
+* 作者的邮箱：inurlbr@gmail.com
+* 作者相关的网站：
+``` html
+[+] Blog: http://blog.inurl.com.br
+[+] Twitter: https://twitter.com/googleinurl
+[+] Fanpage: https://fb.com/InurlBrasil
+[+] Pastebin http://pastebin.com/u/Googleinurl
+[+] GIT: https://github.com/googleinurl
+[+] PSS: http://packetstormsecurity.com/user/googleinurl
+[+] EXA: http://exploit4arab.net/author/248/Cleiton_Pinheiro
+[+] YOUTUBE: http://youtube.com/c/INURLBrasil
+[+] PLUS: http://google.com/+INURLBrasil
+```
+* 目前最新版本：V2.1.0
+
+## 运行环境需要的条件：
+
+* 一般都是kali linux上就可以直接运行。
+* 要是没有就直接在linux运行下面命令：
+
+```php
+apt-get install curl libcurl3 libcurl3-dev php5 php5-cli php5-curl
+```
+
+* 该工具的参数都特别的多，每一个功能模块都特别详细，需要大家有耐心的仔细品味。
+
+## 工具运界面：
+
+[img]()
+[img]()
+
+
+
+
+
+
+[source blog](http://laod.cn/tools/php-batch-fetching-search-engine.html)
+====================================================================================================================
+
+
